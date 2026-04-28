@@ -1,20 +1,20 @@
 # Especificação da Solução
 
-## 1. Parceiro / Comunidade
+## 1. Tavares Armarinho 
 
 ### 1.1 Identificação
 
 | Campo | Descrição |
 |-------|-----------|
-| **Nome da comunidade/organização** | *(Preencher)* |
-| **Tipo de organização** | *(ONG / Escola / Associação / Empresa / Órgão público / Outro)* |
+| **Nome da comunidade/organização** | *Tavares Armarinhos* |
+| **Tipo de organização** | *(Empresa )* |
 | **CNPJ (se aplicável)** | *(Preencher)* |
-| **Endereço completo** | *(Preencher)* |
-| **Bairro / Cidade / UF** | *(Preencher)* |
-| **Responsável pelo contato** | *(Nome, cargo e setor)* |
-| **E-mail** | *(Preencher)* |
-| **Telefone** | *(Preencher)* |
-| **Data do primeiro contato** | *(dd/mm/aaaa)* |
+| **Endereço completo** | Rua Claudinei de Oliveira Silva, 166 Francisco Morato São Paulo - SP |
+| **Bairro / Cidade / UF** | *(Francisco Morato São Paulo)* |
+| **Responsável pelo contato** | *(Adriana, Gerenete Geral)* |
+| **E-mail** | *(armarinhotavares@gmail.com)* |
+| **Telefone** | *(11 94500-6561)* |
+| **Data do primeiro contato** | *(01/03/2026)* |
 
 ### 1.2 Contexto da Comunidade
 
@@ -30,7 +30,7 @@
 
 ## 2. Problema Identificado
 
-*(Descreva detalhadamente o problema ou necessidade identificada na comunidade que está relacionada a redes de computadores. Seja específico: qual a situação atual? Quais as consequências do problema? Quem é afetado?)*
+*(Após a realização de uma análise preliminar no ambiente tecnológico da loja, foi identificado que a estação de trabalho utilizada para as atividades operacionais possui acesso à internet residencial, porém não conta com uma política formal de cibersegurança ou diretrizes estabelecidas para o uso seguro dos recursos digitais. A ausência dessas práticas pode aumentar a exposição a riscos como malware, ataques de phishing, perda de dados e acessos não autorizados. Considerando a crescente dependência de sistemas digitais nas operações comerciais, torna-se essencial estabelecer medidas básicas de proteção para garantir a segurança das informações e a continuidade das atividades.?)*
 
 ---
 
@@ -38,13 +38,13 @@
 
 ### 3.1 Descrição Geral
 
-*(Descreva a solução que o grupo propõe para resolver o problema identificado. Explique como ela atende às necessidades da comunidade.)*
+*(Diante desse cenário, este projeto tem como objetivo implementar uma política de cibersegurança adaptada à realidade da loja, contemplando boas práticas de uso do computador, gestão de senhas, proteção contra ameaças digitais, realização de backups e segurança da rede. A aplicação dessas medidas visa reduzir vulnerabilidades, promover o uso responsável da tecnologia e fortalecer a proteção dos dados utilizados no ambiente de trabalho.)*
 
 ### 3.2 Objetivos
 
 **Objetivo geral:**
 
-*(Descreva o objetivo geral do projeto.)*
+*(Implementar uma política de cibersegurança e boas práticas digitais para reduzir vulnerabilidades, proteger os dados operacionais e garantir a continuidade das atividades da loja frente a ameaças cibernéticas.)*
 
 **Objetivos específicos:**
 
@@ -74,7 +74,7 @@
 - [ ] Front-end web (HTML + CSS + JS)
 - [ ] Aplicação móvel
 - [ ] Configuração de infraestrutura de rede
-- [ ] Outro: *(especificar)*
+- [x] Outro: *(especificar. Por exemplo: aplicação Google Docs)*
 
 ### 3.5 Justificativa Técnica
 
