@@ -6,15 +6,15 @@
 
 | Campo | Descrição |
 |-------|-----------|
-| **Nome da comunidade/organização** | *(Preencher)* |
-| **Tipo de organização** | *(ONG / Escola / Associação / Empresa / Órgão público / Outro)* |
+| **Nome da comunidade/organização** | *Tavares Armarinhos* |
+| **Tipo de organização** | *( Empresa )* |
 | **CNPJ (se aplicável)** | *(Preencher)* |
-| **Endereço completo** | *(Preencher)* |
-| **Bairro / Cidade / UF** | *(Preencher)* |
-| **Responsável pelo contato** | *(Nome, cargo e setor)* |
-| **E-mail** | *(Preencher)* |
-| **Telefone** | *(Preencher)* |
-| **Data do primeiro contato** | *(dd/mm/aaaa)* |
+| **Endereço completo** | Rua Claudinei de Oliveira Silva, 166 Francisco Morato São Paulo - SP |
+| **Bairro / Cidade / UF** | *(Francisco Morato. São Paulo. SP )* |
+| **Responsável pelo contato** | *Adriana* |
+| **E-mail** | *armarinhostavares@gmail.com* |
+| **Telefone** | *11 94500-6561* |
+| **Data do primeiro contato** | *(01/03/2026)* |
 
 ### 1.2 Contexto da Comunidade
 
@@ -74,7 +74,7 @@
 - [ ] Front-end web (HTML + CSS + JS)
 - [ ] Aplicação móvel
 - [ ] Configuração de infraestrutura de rede
-- [ ] Outro: *(especificar)*
+- [x] Outro: *(especificar. Por exemplo: aplicação Google Docs)*
 
 ### 3.5 Justificativa Técnica
 
