@@ -6,19 +6,26 @@
 
 | Campo | Descrição |
 |-------|-----------|
-| **Nome da comunidade/organização** | *(Preencher)* |
+| **Nome da comunidade/organização** | *Tavares Armarinhos* |
 | **Tipo de organização** | *(ONG / Escola / Associação / Empresa / Órgão público / Outro)* |
-| **CNPJ (se aplicável)** | *(Preencher)* |
-| **Endereço completo** | *(Preencher)* |
-| **Bairro / Cidade / UF** | *(Preencher)* |
-| **Responsável pelo contato** | *(Nome, cargo e setor)* |
-| **E-mail** | *(Preencher)* |
-| **Telefone** | *(Preencher)* |
-| **Data do primeiro contato** | *(dd/mm/aaaa)* |
+| **CNPJ (se aplicável)** | *(29.490.761/0001-50)* |
+| **Endereço completo** | Rua Claudinei de Oliveira Silva, 166 Francisco Morato São Paulo - SP |
+| **Bairro / Cidade / UF** | *(Jardim Vassouras Francisco Morato SP)* |
+| **Responsável pelo contato** | *(Adriana, Gerente)* |
+| **E-mail** | *(armarinhotavares@gmail.com)* |
+| **Telefone** | *(11 94500-6561)* |
+| **Data do primeiro contato** | *(26/02/2026)* |
 
 ### 1.2 Contexto da Comunidade
 
-*(Descreva a comunidade parceira: qual é a sua missão/atuação, público atendido, quantidade de pessoas impactadas, infraestrutura atual de tecnologia e redes, principais desafios enfrentados na área de TI/redes.)*
+*A comunidade parceira escolhida é a Tavares Armarinhos, uma loja de pequeno porte que atende a população local com produtos de armarinho e itens diversos.
+
+A loja possui 1 funcionário, 1 gerente e 1 proprietário, totalizando 3 pessoas na operação, com média de 30 atendimentos por dia. Sua estrutura de tecnologia é básica, voltada para atendimento, comunicação, controle de vendas e organização interna.
+
+Os principais desafios na área de TI e redes são melhorar a estabilidade da internet, proteger os dados da loja, organizar os equipamentos, realizar backups e tornar os processos mais seguros.
+
+Também será proposta uma política básica de cibersegurança, com boas práticas como uso de senhas fortes, contas pessoais com diferentes níveis de acesso, não compartilhamento de acessos, cuidado com links suspeitos, atualização dos equipamentos, backup de dados e proteção da rede Wi-Fi.
+ . )*
 
 ### 1.3 Termo de Parceria
 
@@ -30,7 +37,7 @@
 
 ## 2. Problema Identificado
 
-*(Descreva detalhadamente o problema ou necessidade identificada na comunidade que está relacionada a redes de computadores. Seja específico: qual a situação atual? Quais as consequências do problema? Quem é afetado?)*
+*(Este projeto propõe a implementação de uma política de cibersegurança em uma loja que atualmente opera com infraestrutura básica, utilizando conexão residencial e sem diretrizes formais de segurança digital. A análise inicial identificou vulnerabilidades relevantes, como ausência de controle de acesso, falta de rotinas de backup e inexistência de mecanismos adequados de proteção contra ameaças. Diante disso, a proposta consiste na adoção de medidas práticas e acessíveis, incluindo padronização de boas práticas de uso, fortalecimento da gestão de senhas, implementação de soluções de proteção (como antivírus e atualizações regulares), estruturação de rotinas de backup e melhorias na configuração da rede. O objetivo é reduzir riscos operacionais, proteger os dados da empresa e garantir maior estabilidade e segurança nas atividades diárias.)*
 
 ---
 
@@ -74,7 +81,7 @@
 - [ ] Front-end web (HTML + CSS + JS)
 - [ ] Aplicação móvel
 - [ ] Configuração de infraestrutura de rede
-- [ ] Outro: *(especificar)*
+- [x] Outro: *(especificar. Por exemplo: aplicação Google Docs)*
 
 ### 3.5 Justificativa Técnica
 
